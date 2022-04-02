@@ -1,0 +1,2 @@
+# NB921ARM
+For NB921 ARM 8280 Bring Up
